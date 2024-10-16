@@ -1,4 +1,4 @@
-# SobreCarga
+# SobreCarga (ejecute archivo main.py)
 
 ## Descripción del Ejercicio
 
