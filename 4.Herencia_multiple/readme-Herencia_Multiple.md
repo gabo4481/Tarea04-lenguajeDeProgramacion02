@@ -1,4 +1,4 @@
-# Herencia Múltiple
+# Herencia Múltiple (ejecute archivo main.py)
 
 ## Descripción del Ejercicio
 
