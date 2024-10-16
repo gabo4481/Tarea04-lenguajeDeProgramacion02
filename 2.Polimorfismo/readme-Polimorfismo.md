@@ -1,4 +1,4 @@
-# Polimorfismo
+# Polimorfismo (ejecute archivo main.py)
 
 ## Descripción del Ejercicio
 
